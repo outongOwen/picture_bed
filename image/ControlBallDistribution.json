@@ -1,0 +1,20 @@
+{
+  "homeTeam": {
+    "teamEmblem": "https://img.cmvideo.cn/sports/uploadImages/2022/11/9/1600000500811046ee0b.png",
+    "coachName": "瓜迪奥拉",
+    "formation": "4-3-3",
+    "teamName": "曼城",
+    "forwardZone": 35,
+    "midfieldZone": 45,
+    "defenseZone": 20
+  },
+  "visitingTeam": {
+    "teamEmblem": "https://img.cmvideo.cn/sports/uploadImages/2022/11/9/1600000500811046ee0b.png",
+    "coachName": "克洛普",
+    "formation": "4-4-2",
+    "teamName": "利物浦",
+    "forwardZone": 28,
+    "midfieldZone": 38,
+    "defenseZone": 34
+  }
+}
