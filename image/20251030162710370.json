@@ -1,0 +1,147 @@
+{
+    "data": [
+        {
+            "teamId": 160000069463,
+            "info": [
+                {
+                    "type": 1,
+                    "value": 28,
+                    "intervalData": [
+                        {
+                            "section": 1,
+                            "sectionValue": 11
+                        },
+                        {
+                            "section": 2,
+                            "sectionValue": 36
+                        },
+                        {
+                            "section": 3,
+                            "sectionValue": 20
+                        },
+                        {
+                            "section": 4,
+                            "sectionValue": 33
+                        }
+                    ]
+                },
+                {
+                    "type": 2,
+                    "value": 41,
+                    "intervalData": [
+                        {
+                            "section": 5,
+                            "sectionValue": 19
+                        },
+                        {
+                            "section": 6,
+                            "sectionValue": 32
+                        },
+                        {
+                            "section": 7,
+                            "sectionValue": 26
+                        },
+                        {
+                            "section": 8,
+                            "sectionValue": 23
+                        }
+                    ]
+                },
+                {
+                    "type": 3,
+                    "value": 31,
+                    "intervalData": [
+                        {
+                            "section": 9,
+                            "sectionValue": 37
+                        },
+                        {
+                            "section": 10,
+                            "sectionValue": 16
+                        },
+                        {
+                            "section": 11,
+                            "sectionValue": 33
+                        },
+                        {
+                            "section": 12,
+                            "sectionValue": 14
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "teamId": 160000069470,
+            "info": [
+                {
+                    "type": 1,
+                    "value": 34,
+                    "intervalData": [
+                        {
+                            "section": 1,
+                            "sectionValue": 22
+                        },
+                        {
+                            "section": 2,
+                            "sectionValue": 24
+                        },
+                        {
+                            "section": 3,
+                            "sectionValue": 24
+                        },
+                        {
+                            "section": 4,
+                            "sectionValue": 30
+                        }
+                    ]
+                },
+                {
+                    "type": 2,
+                    "value": 36,
+                    "intervalData": [
+                        {
+                            "section": 5,
+                            "sectionValue": 27
+                        },
+                        {
+                            "section": 6,
+                            "sectionValue": 33
+                        },
+                        {
+                            "section": 7,
+                            "sectionValue": 21
+                        },
+                        {
+                            "section": 8,
+                            "sectionValue": 19
+                        }
+                    ]
+                },
+                {
+                    "type": 3,
+                    "value": 30,
+                    "intervalData": [
+                        {
+                            "section": 9,
+                            "sectionValue": 24
+                        },
+                        {
+                            "section": 10,
+                            "sectionValue": 27
+                        },
+                        {
+                            "section": 11,
+                            "sectionValue": 31
+                        },
+                        {
+                            "section": 12,
+                            "sectionValue": 18
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "matchId": "120000768350"
+}
