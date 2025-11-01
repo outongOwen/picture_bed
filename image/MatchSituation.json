@@ -1,0 +1,509 @@
+{
+  "momentumList": [
+    12,
+    -2.5,
+    19,
+    8,
+    0,
+    0,
+    0,
+    14,
+    10,
+    10,
+    23,
+    4,
+    15,
+    20,
+    -7.5,
+    15.5,
+    4,
+    2,
+    12,
+    -9,
+    -12,
+    15,
+    3,
+    -2,
+    -11,
+    15.5,
+    -3,
+    12.5,
+    10,
+    11.5,
+    7,
+    -4,
+    0.5,
+    7.5,
+    22,
+    -6,
+    4,
+    -8,
+    3.5,
+    -5,
+    6,
+    10,
+    10,
+    4,
+    -10,
+    -13.5,
+    0,
+    -19,
+    -7,
+    -7,
+    -8,
+    0,
+    -10,
+    -3.5,
+    3,
+    -3.5,
+    7,
+    11,
+    -5.5,
+    -11,
+    0,
+    -9,
+    18,
+    1,
+    11.5,
+    -13,
+    -23,
+    -15.5,
+    -13,
+    -10,
+    0,
+    -1.5,
+    -13,
+    -9,
+    4.5,
+    -1,
+    -2,
+    -14,
+    11.5,
+    -6,
+    13.5,
+    12,
+    -2,
+    9,
+    -19,
+    -21,
+    -22,
+    -10.5,
+    -10,
+    14.5,
+    9,
+    -6,
+    0,
+    0.5,
+    -15.5,
+    -19,
+    -18,
+    3,
+    -4.5,
+    5,
+    9,
+    -8,
+    11,
+    6,
+    2
+  ],
+  "teamList": [
+    {
+      "teamId": 160000069470,
+      "teamName": "曼彻斯特联足球俱乐部",
+      "shortName": "曼联",
+      "teamType": 1,
+      "teamLogo": "https://raw.githubusercontent.com/outongOwen/picture_bed/main/image/下载.png",
+      "events": [
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848779919,
+              "eventName": "进球",
+              "eventType": 16,
+              "playerId": 150000832658,
+              "playerName": "布鲁诺·费尔南德斯"
+            }
+          ],
+          "timeSec": 49,
+          "timeMin": 13
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848783943,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": 150000832665,
+              "playerName": "卡塞米罗"
+            }
+          ],
+          "timeSec": 57,
+          "timeMin": 16
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848805157,
+              "eventName": "进球",
+              "eventType": 16,
+              "playerId": 150000832665,
+              "playerName": "卡塞米罗"
+            }
+          ],
+          "timeSec": 28,
+          "timeMin": 36
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848824383,
+              "eventName": "两黄变一红",
+              "eventType": 17,
+              "playerId": 150000832665,
+              "playerName": "卡塞米罗"
+            }
+          ],
+          "timeSec": 44,
+          "timeMin": 49
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848844699,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000820529,
+              "playerName": "舍什科"
+            },
+            {
+              "eventId": 2848844711,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000832671,
+              "playerName": "乌加特"
+            }
+          ],
+          "timeSec": 0,
+          "timeMin": 55
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848866207,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000826571,
+              "playerName": "乌加特"
+            },
+            {
+              "eventId": 2848866211,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000836158,
+              "playerName": "库尼亚"
+            }
+          ],
+          "timeSec": 0,
+          "timeMin": 74
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848871467,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000828730,
+              "playerName": "姆贝乌莫"
+            },
+            {
+              "eventId": 2848871477,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000832673,
+              "playerName": "芒特"
+            }
+          ],
+          "timeSec": 0,
+          "timeMin": 79
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848871713,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000832655,
+              "playerName": "马奎尔"
+            },
+            {
+              "eventId": 2848871725,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000832666,
+              "playerName": "约罗"
+            }
+          ],
+          "timeSec": 19,
+          "timeMin": 79
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848891467,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000832658,
+              "playerName": "布鲁诺·费尔南德斯"
+            },
+            {
+              "eventId": 2848891471,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000832678,
+              "playerName": "梅努"
+            }
+          ],
+          "timeSec": 20,
+          "timeMin": 96
+        }
+      ]
+    },
+    {
+      "teamId": 160000069463,
+      "teamName": "切尔西足球俱乐部",
+      "shortName": "切尔西",
+      "teamType": 2,
+      "teamLogo": "https://raw.githubusercontent.com/outongOwen/picture_bed/main/image/下载.png",
+      "events": [
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848767809,
+              "eventName": "红牌",
+              "eventType": 17,
+              "playerId": 150000829428,
+              "playerName": "桑切斯"
+            }
+          ],
+          "timeSec": 1,
+          "timeMin": 4
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848769693,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000841001,
+              "playerName": "埃斯特瓦奥"
+            },
+            {
+              "eventId": 2848769701,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000829433,
+              "playerName": "约根森"
+            }
+          ],
+          "timeSec": 40,
+          "timeMin": 5
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848770991,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000829408,
+              "playerName": "内托"
+            },
+            {
+              "eventId": 2848770999,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000829406,
+              "playerName": "阿达拉比奥尤"
+            }
+          ],
+          "timeSec": 32,
+          "timeMin": 6
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848788101,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000829431,
+              "playerName": "帕尔默"
+            },
+            {
+              "eventId": 2848788103,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000837654,
+              "playerName": "安德雷·桑托斯"
+            }
+          ],
+          "timeSec": 5,
+          "timeMin": 20
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848814371,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": 150000829410,
+              "playerName": "库库雷利亚"
+            }
+          ],
+          "timeSec": 38,
+          "timeMin": 43
+        },
+        {
+          "periodId": 1,
+          "eventInfo": [
+            {
+              "eventId": 2848822647,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": null,
+              "playerName": ""
+            }
+          ],
+          "timeSec": 28,
+          "timeMin": 50
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848850277,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": 150000829393,
+              "playerName": "费尔南德斯"
+            }
+          ],
+          "timeSec": 29,
+          "timeMin": 57
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848852337,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": 150000830076,
+              "playerName": "查洛巴"
+            }
+          ],
+          "timeSec": 26,
+          "timeMin": 59
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848865685,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000829413,
+              "playerName": "福法纳"
+            },
+            {
+              "eventId": 2848865689,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000829435,
+              "playerName": "乔治"
+            }
+          ],
+          "timeSec": 30,
+          "timeMin": 73
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848865815,
+              "eventName": "换下",
+              "eventType": 18,
+              "playerId": 150000829410,
+              "playerName": "库库雷利亚"
+            },
+            {
+              "eventId": 2848865827,
+              "eventName": "换上",
+              "eventType": 19,
+              "playerId": 150000829415,
+              "playerName": "古斯托"
+            }
+          ],
+          "timeSec": 31,
+          "timeMin": 73
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848874731,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": 150000829435,
+              "playerName": "乔治"
+            }
+          ],
+          "timeSec": 47,
+          "timeMin": 81
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848883893,
+              "eventName": "进球",
+              "eventType": 16,
+              "playerId": 150000830076,
+              "playerName": "查洛巴"
+            }
+          ],
+          "timeSec": 24,
+          "timeMin": 89
+        },
+        {
+          "periodId": 2,
+          "eventInfo": [
+            {
+              "eventId": 2848900611,
+              "eventName": "黄牌",
+              "eventType": 17,
+              "playerId": 150000829406,
+              "playerName": "阿达拉比奥尤"
+            }
+          ],
+          "timeSec": 46,
+          "timeMin": 105
+        }
+      ]
+    }
+  ],
+  "matchId": 120000768350,
+  "interval": 300000
+}
